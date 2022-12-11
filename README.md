@@ -1,7 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
 - 👋 Hi, I’m Masoud Mokhtari, an Android developer 👨‍💻 working since 2015 🚀
 - 🌱 I’m currently learning  Jetpack Compose
 
